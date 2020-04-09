@@ -1,0 +1,13 @@
+setup.py
+covid_telegram/__init__.py
+covid_telegram/items.py
+covid_telegram/middlewares.py
+covid_telegram/pipelines.py
+covid_telegram/settings.py
+covid_telegram/spiders/__init__.py
+covid_telegram/spiders/covid.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
