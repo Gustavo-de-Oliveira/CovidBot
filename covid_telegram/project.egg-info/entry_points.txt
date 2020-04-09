@@ -1,3 +1,0 @@
-[scrapy]
-settings = covid_telegram.settings
-
